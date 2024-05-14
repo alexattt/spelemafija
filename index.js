@@ -9,9 +9,9 @@ var mainHtmlPage = document.getElementsByTagName("main");
 
 function changeMainBg(isMainPage) {
   if (isMainPage) {
-    mainHtmlPage[0].style.backgroundImage = "url('../assets/background_one.png')";
+    mainHtmlPage[0].style.backgroundImage = "url('assets/background_one.png')";
   } else {
-    mainHtmlPage[0].style.backgroundImage = "url('../assets/background_two.png')";
+    mainHtmlPage[0].style.backgroundImage = "url('assets/background_two.png')";
   }
 }
 
