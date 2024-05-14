@@ -283,6 +283,7 @@ button:hover,
   justify-content: center;
   gap: 14px;
   margin-top: 32px;
+  margin-top: 64px;
 }
 
 .hero-title h1 {
@@ -492,10 +493,6 @@ footer img {
     display: none;
   }
 
-  .hero-title {
-    margin-top: 64px;
-  }
-
   .hero-title h1 {
     font-size: 2.25rem;
   }
@@ -540,5 +537,19 @@ footer img {
   nav {
     visibility: visible;
     display: block;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  .hero-title h1 {
+    font-size: 4rem;
+  }
+
+  .hero-title .mafia-title {
+    font-size: 6rem;
+  }
+
+  .hero-explanation h2 {
+    font-size: 1.75rem;
   }
 }
