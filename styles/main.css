@@ -84,7 +84,6 @@ picture {
   cursor: pointer;
   height: 27px;
   width: 27px;
-  margin-right: 12px;
   overflow: visible;
   position: relative;
   float: right;
@@ -460,6 +459,10 @@ footer img {
   cursor: pointer;
 }
 
+.fade-in-slow {
+  animation: fadeIn 4s;
+}
+
 .fade-in {
   animation: fadeIn 2s;
 }
@@ -487,6 +490,10 @@ footer img {
   nav {
     visibility: hidden;
     display: none;
+  }
+
+  .hero-title {
+    margin-top: 64px;
   }
 
   .hero-title h1 {
