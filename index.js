@@ -403,7 +403,7 @@ const LV_TRANSLATIONS = [
   "Cilvēki ierodas, lai dalītos ar jaunumiem, iepazītos ar jauniem draugiem, atrast otras pusītes un pats galvenais, lai ļautos aizrautīgām „mafijas” spēlēm.",
   "Spēle palīdz cilvēkiem atraisīties, tikt galā ar iekšējām bailēm, iemāca formulēt un aizstāvēt savu pozīciju un domas, kā arī attīsta loģisko domāšanu. Bez visa šī tiek pilnveidotas arī oratoriskās un aktiermeistarības spējas. Kļūt par kluba biedru var jebkurš interesents. To apmeklē ļaudis visdažādākajos vecumos. Tiek atsevišķi arī organizētas spēles priekš bērniem sākot no 10 gadu vecuma.",
   "Mēs nepraktizējam un neatbalstām nenormētu leksiku, personiskus aizvainojumus un nesamērīgu alkohola lietošanu.",
-  "Ar prieku Jūs gaidīsim uz spēlēm!",
+  "Ar prieku gaidīsim Jūs uz spēlēm!",
   "Noteikumi",
   "Pamatinformācija",
   "Noteikumu pārkāpumi",
